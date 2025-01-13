@@ -21,9 +21,8 @@ My favorite thing to do, however, will always be taking apart computers and serv
 
 This is the gaming desktop that I just build last year (2024):
 ![PC](Building-Markdown-Photos/PC.jpg "My PC")
+These are the specs for said PC:
 ![PC-Specs](Building-Markdown-Photos/PC-Specs.jpg "My PC Specs")
 
 ## Something Interesting About You
-.
-
-.
+I play in a Summer/Fall Softball league. I also play paintball on occasion when it isn't freezing cold out.
